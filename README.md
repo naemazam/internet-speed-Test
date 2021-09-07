@@ -2,7 +2,7 @@
 # internet-speed-Test
 
 Simple PHP based Website You can Check Your Internet Speed Ping 
-
+<img src="ist.PNG"> 
 [Visit Now ](http://internet-speed-test.42web.io/)
 
 ## Features
@@ -13,7 +13,7 @@ Simple PHP based Website You can Check Your Internet Speed Ping
 - Upload speed
 
 
-<img src="ist.png"> 
+
 
 
 ## Badges
